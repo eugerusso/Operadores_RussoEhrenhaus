@@ -1,4 +1,4 @@
-/*En la creacion del formulario se ha utilizado el operador ternario, AND y spread  */
+/*En la creacion de la to do list (linea 127 para abajo) se ha utilizado el operador ternario, AND y spread  */
 
 //La idea es hacer como una app de organizción medio inspirada en Notion 
 
