@@ -1,3 +1,5 @@
+/*En la creacion del formulario se ha utilizado el operador ternario, AND y spread  */
+
 //La idea es hacer como una app de organizción medio inspirada en Notion 
 
 let hoy = new Date();
